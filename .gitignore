@@ -1,0 +1,37 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/local.properties
+**/.gradle/
+**/.kotlin/
+android/key.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+supabase_config.json
+
+# Local secrets and downloaded OAuth credentials
+.env
+.env.*
+!.env.example
+client_secret*.json
+*service-account*.json
+
+# Generated Apple platform files
+**/Pods/
+**/.symlinks/
+ios/Flutter/.last_build_id
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store

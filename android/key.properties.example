@@ -1,0 +1,6 @@
+# Copy this file to android/key.properties and fill in your own values.
+# Keep android/key.properties and the keystore private and backed up safely.
+storeFile=app/upload-keystore.jks
+storePassword=CHANGE_ME
+keyPassword=CHANGE_ME
+keyAlias=checkingo
