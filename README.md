@@ -52,7 +52,7 @@ available in debug builds; release builds require Supabase configuration.
 
 | Mode | Login |
 |------|-------|
-| Debug demo (debug build only) | `teacher` / `1234` |
+| Debug demo (debug build only) | `teacher@example.com` / `teacher@123` |
 | Supabase | Teacher email/password registration |
 
 ## Sample Data
